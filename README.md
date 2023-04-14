@@ -1,4 +1,4 @@
-# **Landslide-susceptibility-WOE**
+**# Landslide-susceptibility-WOE**
 
 This Python script generates a landslide susceptibility model using weights of evidence. As input, the script requires the following variables:
 
@@ -35,5 +35,5 @@ Un archivo de Excel con una hoja de cálculo por cada mapa temático, que indica
 ## Instalación:
 Para utilizar el script, es necesario tener instalado Python y algunas librerías adicionales (numpy, os, xlsxwriter, osgeo, pandas, argparse. )
 
-Autoría:
+## Autoría:
 Este proyecto fue creado por Nayleth Alexandra Rojas Becerra. Puedes contactar al autor en nayleth_alexandra@hotmail.com'''
