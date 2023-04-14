@@ -1,4 +1,3 @@
-<h1 style="color: red;">Landslide-susceptibility-WOE</h1>
 # Landslide-susceptibility-WOE 	
 
 This Python script generates a landslide susceptibility model using weights of evidence. As input, the script requires the following variables:
