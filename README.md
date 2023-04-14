@@ -1,4 +1,4 @@
-# Landslide-susceptibility-WOE 	`#0969DA`
+# Landslide-susceptibility-WOE 	
 
 This Python script generates a landslide susceptibility model using weights of evidence. As input, the script requires the following variables:
 
@@ -19,7 +19,7 @@ To use the script, it is necessary to have Python and some additional libraries 
 This project was created by Nayleth Alexandra Rojas Becerra. You can contact the author at nayleth_alexandra@hotmail.com
 
 
-# Modelo de susceptibilidad a deslizamientos con pesos de evidencia 	#0969DA
+# Modelo de susceptibilidad a deslizamientos con pesos de evidencia 
 Este script de Python genera un modelo de susceptibilidad a deslizamientos utilizando pesos de evidencia. Como entrada, el script requiere las siguientes variables:
 
 - Ruta de salida
