@@ -2,7 +2,7 @@
 
 This Python script generates a landslide susceptibility model using weights of evidence. As input, the script requires the following variables:
 
-- Output path
+-Output path
 - Path of each of the thematic maps
 - Path of the map with the sample inventory of morphodynamic processes to be used for training.
 - Null value or no data value
