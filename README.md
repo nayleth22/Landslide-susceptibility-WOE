@@ -24,6 +24,7 @@ https://www.linkedin.com/pulse/instalar-gdal-windows-10-yineth-castiblanco-rojas
 
 ## Authorship:
 This project was created by Nayleth Alexandra Rojas Becerra. You can contact the author at nayleth_alexandra@hotmail.com
+You can access the complete document of this research through the following link: https://noesis.uis.edu.co/handle/20.500.14071/14313
 
 # Modelo de susceptibilidad a deslizamientos con pesos de evidencia 
 Este script de Python genera un modelo de susceptibilidad a deslizamientos utilizando pesos de evidencia. Como entrada, el script requiere las siguientes variables:
@@ -50,3 +51,4 @@ https://www.linkedin.com/pulse/instalar-gdal-windows-10-yineth-castiblanco-rojas
 
 ## Autoría:
 Este proyecto fue creado por Nayleth Alexandra Rojas Becerra. Puedes contactar al autor en nayleth_alexandra@hotmail.com
+Puedes acceder al documento completo de esta investigación a través del siguiente enlace: https://noesis.uis.edu.co/handle/20.500.14071/14313
