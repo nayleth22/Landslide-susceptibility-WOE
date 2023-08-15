@@ -7,9 +7,9 @@ This Python script generates a landslide susceptibility model using weights of e
 - Path of the map with the sample inventory of morphodynamic processes to be used for training.
 - Null value or no data value
 
-Within the 'DATA' folder, you will find the maps used for my research work. These maps which are used for processing, are in raster format and are in the Magna-Sirgas 3116 coordinate reference system. Furthermore, they are precisely aligned, possess consistent resolution, and the classes are represented using numerical values.
+Within the 'DATA-INPUT' folder, you will find the maps used for my research work. These maps which are used for processing, are in raster format and are in the Magna-Sirgas 3116 coordinate reference system. Furthermore, they are precisely aligned, possess consistent resolution, and the classes are represented using numerical values.
 
-Inside the 'FILES' folder, you will find the thematic maps together with the landslide susceptibility map in its final presentation version.
+Inside the 'PRETTY_DATA-INPUT' folder, you will find the thematic maps together with the landslide susceptibility map in its final presentation version.
 
 ## The script will generate the following:
 
@@ -34,9 +34,9 @@ Este script de Python genera un modelo de susceptibilidad a deslizamientos utili
 - Ruta del mapa con la muestra del inventario de procesos morfodinámicos que se utilizará para el entrenamiento
 - Valor nulo o valor de no dato
 
-Dentro del directorio 'DATA', descubrirás los mapas empleados en mi investigación. Estos mapas que se usan para el procesamiento, se encuentran en formato ráster y se hallan en el sistema de coordenadas de referencia Magna-Sirgas 3116. Además, están perfectamente alineados, presentan una resolución uniforme y las distintas clases se encuentran representadas mediante valores numéricos.
+Dentro del directorio 'DATA-INPUT', descubrirás los mapas empleados en mi investigación. Estos mapas que se usan para el procesamiento, se encuentran en formato ráster y se hallan en el sistema de coordenadas de referencia Magna-Sirgas 3116. Además, están perfectamente alineados, presentan una resolución uniforme y las distintas clases se encuentran representadas mediante valores numéricos.
 
-Dentro de la carpeta 'FILES', encontrarás los mapas temáticos junto al mapa de susceptibilidad a deslizamientos en su versión de Presentación final.
+Dentro de la carpeta 'PRETTY_DATA-INPUT', encontrarás los mapas temáticos junto al mapa de susceptibilidad a deslizamientos en su versión de Presentación final.
 
 ## El script generará lo siguiente:
 
