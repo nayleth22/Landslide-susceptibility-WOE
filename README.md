@@ -13,7 +13,10 @@ This Python script generates a landslide susceptibility model using weights of e
 - An Excel file with a spreadsheet for each thematic map, indicating the necessary calculated variables and the weights assigned to each class of each thematic map.
 
 ## Installation:
-To use the script, it is necessary to have Python and some additional libraries (numpy, os, xlsxwriter, osgeo, pandas, argparse. ) installed.
+To use the script, it is necessary to have Python and some additional libraries (numpy, os, xlsxwriter, osgeo, pandas, argparse, gdal. ) installed.
+
+To install GDAL, I recommend you follow the tutorial below.
+https://www.linkedin.com/pulse/instalar-gdal-windows-10-yineth-castiblanco-rojas
 
 ## Authorship:
 This project was created by Nayleth Alexandra Rojas Becerra. You can contact the author at nayleth_alexandra@hotmail.com
@@ -32,7 +35,10 @@ Este script de Python genera un modelo de susceptibilidad a deslizamientos utili
 - Un archivo de Excel con una hoja de cálculo por cada mapa temático, que indica las variables calculadas necesarias y los pesos asignados a cada clase de cada mapa temático.
 
 ## Instalación:
-Para utilizar el script, es necesario tener instalado Python y algunas librerías adicionales (numpy, os, xlsxwriter, osgeo, pandas, argparse)
+Para utilizar el script, es necesario tener instalado Python y algunas librerías adicionales (numpy, os, xlsxwriter, osgeo, pandas, argparse, gdal)
+
+Para instalar GDAL, te recomiendo seguir el tutorial que se presenta a continuación.
+https://www.linkedin.com/pulse/instalar-gdal-windows-10-yineth-castiblanco-rojas
 
 ## Autoría:
 Este proyecto fue creado por Nayleth Alexandra Rojas Becerra. Puedes contactar al autor en nayleth_alexandra@hotmail.com
